@@ -4,6 +4,9 @@
 An interactive Business Intelligence (BI) dashboard developed entirely in **Microsoft Excel** to analyze and monitor commercial performance. The project integrates multi-source business data, transforming raw datasets into actionable visual insights to support strategic marketing and operational decision-making.
 
 ---
+<img width="1025" height="480" alt="Screenshot 2026-09-10 235357" src="https://github.com/user-attachments/assets/bfaef818-05ac-4b74-a7f1-70835a056a74" />
+
+---
 
 ## 📐 Data Modeling & Architecture (Star Schema)
 The project's backbone is a fully optimized **Star Schema Data Model** built within **Power Pivot**. 
